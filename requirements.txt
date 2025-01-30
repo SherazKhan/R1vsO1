@@ -3,3 +3,5 @@ datasets
 pandas
 python-backoff
 python-dotenv
+matplotlib
+seaborn
