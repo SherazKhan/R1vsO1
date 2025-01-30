@@ -3,7 +3,7 @@
 This Python script compares the performance of two AI models (DeepSeek and OpenAI) on mathematical derivative problems.
 
 ## Results
-![Alt text](relative%20path/model_comparison_plot.png?raw=true "Title")
+![Alt text](model_comparison_plot.png)
 
 ## Features
 - Uses the `seed_math_deepmind` dataset for testing
