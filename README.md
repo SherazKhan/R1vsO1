@@ -1,4 +1,4 @@
-# R1vsO1:  Math Problem Solver Model Comparison
+# R1 vs. O1: A Comparative Evaluation Using High School AP Calculus AB-Level Derivative Problems
 
 This Python script compares the performance of two AI models (DeepSeek and OpenAI) on mathematical derivative problems.
 
