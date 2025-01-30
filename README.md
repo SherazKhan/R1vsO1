@@ -1,6 +1,6 @@
 # R1 vs. O1: A Comparative Evaluation Using High School AP Calculus AB-Level Derivative Problems
 
-This ```r1vso1.py``` compares the performance of two AI models (DeepSeek and OpenAI) on mathematical derivative problems.
+```r1vso1.py``` compares the performance of two LLMs (DeepSeek and OpenAI) on mathematical derivative problems.
 
 ## Results
 ![Alt text](model_comparison_plot.png)
